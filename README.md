@@ -70,7 +70,7 @@ Code: https://github.com/Kushagra001/Food-App
 
 ## Portfolio
 
-https://linkify-k8j8.onrender.com/
+https://react-portfolio-gamma-tan.vercel.app/
 
 ## GitHub Stats
 
